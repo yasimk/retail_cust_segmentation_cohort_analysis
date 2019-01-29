@@ -10,7 +10,9 @@
 ![rfm analysis of clusters](https://user-images.githubusercontent.com/34105353/51875014-cdcdee80-2328-11e9-937e-2543be07c96e.png)
 
 
-### Cohot Analysis - Cohort by Month and Number of customers and % of customers
+### Cohot Analysis - Visualizing Churn - Cohort by Month and Number of customers 
 ![cohortanalysis-churn numbers](https://user-images.githubusercontent.com/34105353/51875015-cdcdee80-2328-11e9-932f-5f4023991403.png)
+
+### Cohot Analysis - Visualizing Churn - Cohort by Month and % of customers
 ![cohortanalysis-churn](https://user-images.githubusercontent.com/34105353/51875010-cdcdee80-2328-11e9-9635-a0306aff58b5.png)
 
